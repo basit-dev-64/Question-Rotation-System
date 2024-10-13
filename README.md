@@ -42,7 +42,7 @@ The implementation follows these steps:
 
 ### Pros
 
-- Scalability: The architecture supports growth, enabling the system to handle 100k daily active users and scale to millions. By using MongoDB, it can manage large volumes of data efficiently.
+- Scalability: The architecture supports growth, enabling the system to handle 100k daily active users and scale to millions.
   
 - Flexibility: The system allows for configurable cycle durations.
   
